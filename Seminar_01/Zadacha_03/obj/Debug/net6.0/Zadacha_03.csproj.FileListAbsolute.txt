@@ -1,0 +1,15 @@
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.csproj.AssemblyReference.cache
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.AssemblyInfoInputs.cache
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.AssemblyInfo.cs
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.csproj.CoreCompileInputs.cache
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\bin\Debug\net6.0\Zadacha_03.exe
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\bin\Debug\net6.0\Zadacha_03.deps.json
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\bin\Debug\net6.0\Zadacha_03.runtimeconfig.json
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\bin\Debug\net6.0\Zadacha_03.dll
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\bin\Debug\net6.0\Zadacha_03.pdb
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.dll
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\refint\Zadacha_03.dll
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.pdb
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\Zadacha_03.genruntimeconfig.cache
+C:\Users\Win10_Game_OS\Desktop\Homework_charp\Seminar_01\Zadacha_03\obj\Debug\net6.0\ref\Zadacha_03.dll
